@@ -1,0 +1,1213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"book",
+				"book_per_lib"
+			],
+			[
+				"libra",
+				"library_books_weight\tfunction"
+			],
+			[
+				"boo",
+				"book_per_lib"
+			],
+			[
+				"re",
+				"reverse\tparam"
+			],
+			[
+				"librar",
+				"libraries_info\tstatement"
+			],
+			[
+				"Eleme",
+				"ELEMENT"
+			],
+			[
+				"xs",
+				"xsd"
+			],
+			[
+				"elemen",
+				"element\t🕮"
+			],
+			[
+				"month",
+				"month_name\tstatement"
+			],
+			[
+				"exi",
+				"exists\tfunction"
+			],
+			[
+				"dat",
+				"datetime\tclass"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"wh",
+				"whitelist\tstatement"
+			],
+			[
+				"GetWindow",
+				"GetForegroundWindow\tfunction"
+			],
+			[
+				"Subli",
+				"Sublime\t🕮"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"sec",
+				"secondo"
+			],
+			[
+				"hr",
+				"\\href{URL}{text}                                  \thyperref"
+			],
+			[
+				"ch",
+				"\\chapter{title}                                   \tlatex-document"
+			],
+			[
+				"itemize",
+				"\\begin{itemize}                                   \tlatex-document"
+			],
+			[
+				"ite",
+				"\\item                                             \tlatex-document"
+			],
+			[
+				"i",
+				"itemize                                           \tlatex-document"
+			],
+			[
+				"nwe",
+				"\\newline                                          \tlatex-document"
+			],
+			[
+				"eleg",
+				"elegantpaper"
+			],
+			[
+				"elegant",
+				"elegantnote"
+			],
+			[
+				"bg",
+				"\\begin{}                                          \tlatex-document"
+			],
+			[
+				"textb",
+				"\\textbf{text}                                     \tlatex-document"
+			],
+			[
+				"linebre",
+				"\\nolinebreak                                      \tlatex-document"
+			],
+			[
+				"line",
+				"\\linebreak                                        \tlatex-document"
+			],
+			[
+				"ele",
+				"elegantpaper"
+			],
+			[
+				"paper",
+				"coursepaper"
+			],
+			[
+				"doc",
+				"\\documentclass{style}                             \tlatex-document"
+			],
+			[
+				"new",
+				"\\newline                                          \tlatex-document"
+			],
+			[
+				"n",
+				"\\newline                                          \tlatex-document"
+			],
+			[
+				"brea",
+				"\\linebreak                                        \tlatex-document"
+			],
+			[
+				"be",
+				"\\begin{abstract}                                  \tlatex-document"
+			],
+			[
+				"subs",
+				"\\subsection{title}                                \tlatex-document"
+			],
+			[
+				"todo",
+				"todonotes"
+			],
+			[
+				"use",
+				"\\usepackage{package}                              \tlatex-document"
+			],
+			[
+				"clea",
+				"\\clearpage                                        \tlatex-document"
+			],
+			[
+				"tab",
+				"\\tableofcontents                                  \tlatex-document"
+			],
+			[
+				"cle",
+				"\\clearpage                                        \tlatex-document"
+			],
+			[
+				"r",
+				"randint\tstatement"
+			],
+			[
+				"co",
+				"cos\tfunction"
+			],
+			[
+				"foot",
+				"\\footnote{text}                                   \tlatex-document"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"solid_u",
+				"solid_underline"
+			],
+			[
+				"e",
+				"e\tinstance"
+			],
+			[
+				"num",
+				"numpy\tmodule"
+			],
+			[
+				"set",
+				"setZ\tstatement"
+			],
+			[
+				"iter",
+				"itertools\tmodule"
+			],
+			[
+				"wr",
+				"write\tfunction"
+			],
+			[
+				"ran",
+				"range\tfunction"
+			],
+			[
+				"ra",
+				"randint\tstatement"
+			],
+			[
+				"get",
+				"get_lastname\tfunction"
+			],
+			[
+				"fun",
+				"function\tparam"
+			],
+			[
+				"function",
+				"functions"
+			],
+			[
+				"f",
+				"function\tparam"
+			],
+			[
+				"func",
+				"functions\tstatement"
+			],
+			[
+				"Pro",
+				"property\tclass"
+			],
+			[
+				"ge",
+				"get_name\tfunction"
+			],
+			[
+				"__",
+				"__lastname\tstatement"
+			],
+			[
+				"trace",
+				"tracer\tmodule"
+			],
+			[
+				"a",
+				"attr\tstatement"
+			],
+			[
+				"attr",
+				"attrval\tstatement"
+			],
+			[
+				"cl",
+				"classdict\tparam"
+			],
+			[
+				"ca",
+				"calls\tstatement"
+			],
+			[
+				"class",
+				"classdict\tparam"
+			],
+			[
+				"pal",
+				"palindrome_letters\tstatement"
+			],
+			[
+				"pla",
+				"palindrome_letters\tstatement"
+			],
+			[
+				"wor",
+				"words_util\tmodule"
+			],
+			[
+				"te",
+				"text_list\tstatement"
+			],
+			[
+				"tex",
+				"text_list_index"
+			],
+			[
+				"fil",
+				"file_o\tstatement"
+			],
+			[
+				"file",
+				"file_o"
+			],
+			[
+				"w",
+				"word\tstatement"
+			],
+			[
+				"k",
+				"keys\tfunction"
+			],
+			[
+				"syno",
+				"synonyms_dict\tstatement"
+			],
+			[
+				"it",
+				"items\tfunction"
+			],
+			[
+				"s",
+				"strip"
+			],
+			[
+				"dic",
+				"synonyms_dict"
+			],
+			[
+				"syn",
+				"synonyms_dict\tstatement"
+			],
+			[
+				"read",
+				"readline\tfunction"
+			],
+			[
+				"__n",
+				"__new__\tfunction"
+			],
+			[
+				"su",
+				"super\tclass"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 4452,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"debugg",
+				"Debugger: Quit"
+			],
+			[
+				"debugger",
+				"Debugger: Start"
+			],
+			[
+				"debug",
+				"Debugger: Open"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"form",
+				"PyYapf: Format Document"
+			],
+			[
+				"format",
+				"PyYapf: Format Document"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"kite",
+				"Kite: Engine Settings"
+			],
+			[
+				"jedi",
+				"SublimeJedi: Show Docstring"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git p",
+				"Git: Pull"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"git log ",
+				"Git: Log All"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git hi",
+				"Git: Commit history"
+			],
+			[
+				"count",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"word",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"latexw",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"ghit hi",
+				"Git: Commit history"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git:pu",
+				"Git: Pull"
+			],
+			[
+				"git ",
+				"Git: Gui"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gitgu",
+				"GitGutter: Goto Next Change"
+			],
+			[
+				"wordco",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"text",
+				"Build With: LaTeX - PdfLaTeX"
+			],
+			[
+				"gitgutter",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"syntax te",
+				"Set Syntax: TeX"
+			],
+			[
+				"package controlinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"build",
+				"Build With: LaTeX - Traditional"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"latex",
+				"LaTeXTools: Check system"
+			],
+			[
+				"",
+				"Anaconda: Show error list"
+			],
+			[
+				"anaconda",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"color sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ma",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"materi",
+				"Material Theme: Configuration"
+			],
+			[
+				"materia",
+				"Material Theme: Configuration"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"yap",
+				"PyYapf: Format Document"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gavio/Desktop/d_result.txt",
+		"/E/d_result.txt",
+		"/E/d_tough_choices.txt",
+		"/D/Personale/Personal projects/google-hashcode-2020/resources/e_so_many_books.txt",
+		"/D/Personale/Personal projects/google-hashcode-2020/resources/a_example.txt",
+		"/D/Personale/Personal projects/google-hashcode-2020/google-hashcode-2020.sublime-project",
+		"/D/Personale/Personal projects/google-hashcode-2020/utils.py",
+		"/D/Personale/Personal projects/init-project-automator/initproject.sh",
+		"/D/Personale/Personal projects/init-project-automator/initproject.py",
+		"/D/Unimi/Modelli dei dati e dbms di nuova generazione/Esercizi/XPath/interrogazioni-wine.txt",
+		"/C/Users/gavio/Downloads/Telegram Desktop/wine-fixed.xml",
+		"/C/Users/gavio/Downloads/Telegram Desktop/collezioneCD.dtd",
+		"/C/Users/gavio/Downloads/Telegram Desktop/collezioneCD.xsd",
+		"/D/Unimi/Modelli dei dati e dbms di nuova generazione/Esercizi/DTD e XML schema/schema2dtd.xml",
+		"/D/Unimi/Modelli dei dati e dbms di nuova generazione/Esercizi/DTD e XML schema/es1.xsd",
+		"/D/Personale/Personal projects/Automatic time tracker/main.py",
+		"/C/Users/gavio/Downloads/Telegram Desktop/collezione_cd_schema",
+		"/D/Unimi/Modelli dei dati e dbms di nuova generazione/Esercizi/DTD e XML schema/videoteca1.xsd",
+		"/D/Personale/Personal projects/Time tracker/website.py",
+		"/D/Personale/Personal projects/Time tracker/activity.py",
+		"/D/Personale/Personal projects/Time tracker/main.py",
+		"/D/Personale/Personal projects/Automatic time tracker/activity.py",
+		"/D/Personale/Personal projects/Automatic time tracker/activities.json",
+		"/D/Personale/Personal projects/Time tracker/journal.json",
+		"/D/Personale/Personal projects/Time tracker/year.py",
+		"/D/Personale/Personal projects/Time tracker/month.py",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/Personale/Personal projects/ig-followers/main.py",
+		"/D/Personale/Personal projects/ig-followers/secrets.py",
+		"/C/Users/gavio/AppData/Local/Temp/kite_tutorial.py",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/GavioDavide.tex",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/classes/Singleton.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/classes/HousePeer.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/classes/MetricsManager.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/smartmeter/SmartMeterSimulator.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/smartmeter/BufferExtender.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/classes/BoosterRA.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/classes/ServerManager.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/house/smartmeter/Simulator.java",
+		"/D/Unimi/Sistemi distribuiti e pervasivi/930569/admin/Client.java",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/DictionaryAutoComplete.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/DictionaryAutoComplete/DictionaryAutoComplete.sublime-settings",
+		"/D/Personale/Documenti/Curriculum vitae/cv_gavio_it.tex",
+		"/D/Personale/Documenti/Cover letter/moderncvstylebanking.sty",
+		"/D/Unimi/Interazione uomo-macchina/notes.tex",
+		"/D/Personale/Personal projects/Project automator/initproject.py",
+		"/D/Personale/Documenti/CV/cv_gavio_it.tex",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/.gitignore",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/LaTeX Word Count/LaTeXWordCount.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/WordCount.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/WordCount/WordCount.sublime-settings",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/GavioDavide.aux",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/L0.tex",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/L0.pdf",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/[no file]",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/esercizio15102019.tex",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/elegantpaper-en.tex",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/esercizio15102019.synctex.gz",
+		"/C/Users/gavio/Downloads/elegantpaper-en.tex",
+		"/D/Personale/Documenti/Template Latex/elegantpaper/elegantpaper-en.tex",
+		"/D/Unimi/Cittadinanza digitale e tecnocivismo/Repository/2019-2020/GavioDavide/Esercizio15102019/esercizio15102019.tex",
+		"/D/Unimi/Interazione uomo-macchina/appunti.tex",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/D/Personale/Documenti/CV/main_it.log",
+		"/D/Unimi/Sviluppo di applicazioni per dispositivi mobili/points_generator.py",
+		"/D/Personale/Documenti/CV/main_it.tex",
+		"/D/Personale/Documenti/CV/main.tex",
+		"/D/Personale/Documenti/CV/moderncv.cls",
+		"/C/Users/gavio/Pictures/Saved Pictures/IMG_20180418_155035.jpg",
+		"/D/Personale/Documenti/moderncv/examples/template.log",
+		"/D/Personale/Documenti/moderncv/cv_gavio.tex",
+		"/D/Personale/Documenti/moderncv/examples/template.tex",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/BeautifyLatex.sublime-settings",
+		"/C/Users/gavio/Documents/primo.tex",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/LaTeXSmartQuotes/LaTeXSmartQuotes.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/BeautifyLatex/BeautifyLatex.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Unimi/Sviluppo di applicazioni per dispositivi mobili/reversed_bell.csv",
+		"/D/Unimi/Sviluppo di applicazioni per dispositivi mobili/sincos.csv",
+		"/C/Users/gavio/AppData/Local/Temp/Temp1_16-arkit demo-example.zip/DemoARKit/DemoARKit/ViewController.swift",
+		"/D/Unimi/Sviluppo di applicazioni per dispositivi mobili/generated_points.csv",
+		"/D/Unimi/Programmazione avanzata/Esercizi/Esami/Decoratos/decorators.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Metaclasses/person.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Metaclasses/tracer.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Metaclasses/metas.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Metaclasses/main.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Advance in programming/Metaclasses/tracer.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Esercizi introduttivi su python/Alkaline earth metals/main.py",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Becoming a palindrome",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Up and down over a file/main.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Up and down over a file/utils.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Up and down over a file/wikipedia-excerpt.txt",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Word of mouth/main.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Word of mouth/words.txt",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Shakespeare for the poor/main.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Programmazione funzionale/Frequencies/words.txt",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Shakespeare for the poor/synonyms.txt",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Advance in programming/Decorators/main.py",
+		"/D/Unimi/Programmazione avanzata/Altri esercizi/Advance in programming/Decorators/mymath.py",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/gavio/AppData/Roaming/Sublime Text 3/Packages/IntelliDocs/IntelliDocs.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 136.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": true,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"output.latextools":
+	{
+		"height": 116.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "google-hashcode-2020.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

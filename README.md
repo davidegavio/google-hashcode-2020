@@ -1,1 +1,1 @@
-New google-hashcode-2020 repository!
+Repository containing 2020 Google Hashcode datasets, source code and results files.
